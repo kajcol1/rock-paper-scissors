@@ -7,7 +7,6 @@ game = ("rock", "paper", "scissors")
 player1 = " "
 
 def rps(player1):
-    
     if player1 == "rock" and player2 == "paper":
         return "You win!"
     elif player2 == "rock" and player1 == "paper":
